@@ -53,7 +53,7 @@
                 <configuration>
                     <archive>
                         <manifest>
-                            <mainClass>com.melouk.mazen.Main</mainClass>
+                            <mainClass>com.melouk.mazen.wordcount.Main</mainClass>
                         </manifest>
                     </archive>
                     <descriptorRefs>

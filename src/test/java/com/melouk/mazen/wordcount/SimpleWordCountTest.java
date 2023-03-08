@@ -2,7 +2,6 @@ package com.melouk.mazen.wordcount;
 
 import com.holdenkarau.spark.testing.JavaRDDComparisons;
 import com.holdenkarau.spark.testing.SharedJavaSparkContext;
-import com.melouk.mazen.wordcount.SimpleWordCount;
 import org.apache.spark.api.java.JavaPairRDD;
 import org.apache.spark.api.java.JavaRDD;
 import org.junit.Test;
