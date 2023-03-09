@@ -1,4 +1,4 @@
-package com.melouk.mazen;
+package com.melouk.mazen.io;
 
 import org.apache.spark.api.java.JavaPairRDD;
 

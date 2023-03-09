@@ -1,7 +1,7 @@
 package com.melouk.mazen.wordcount;
 
-import com.melouk.mazen.Reader;
-import com.melouk.mazen.Writer;
+import com.melouk.mazen.io.Reader;
+import com.melouk.mazen.io.Writer;
 import com.melouk.mazen.utils.LocalFileSystemUtils;
 import org.apache.spark.SparkConf;
 import org.apache.spark.api.java.JavaSparkContext;

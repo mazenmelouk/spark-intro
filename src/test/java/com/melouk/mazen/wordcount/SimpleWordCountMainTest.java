@@ -11,7 +11,7 @@ import scala.reflect.ClassTag;
 import java.util.Arrays;
 import java.util.List;
 
-public class SimpleWordCountTest extends SharedJavaSparkContext {
+public class SimpleWordCountMainTest extends SharedJavaSparkContext {
 
     @Test
     public void testCountsWords() {

@@ -1,6 +1,5 @@
-package com.melouk.mazen;
+package com.melouk.mazen.io;
 
-import org.apache.spark.SparkContext;
 import org.apache.spark.api.java.JavaRDD;
 import org.apache.spark.sql.SparkSession;
 

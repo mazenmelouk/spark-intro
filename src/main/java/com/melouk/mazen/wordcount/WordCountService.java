@@ -1,7 +1,7 @@
 package com.melouk.mazen.wordcount;
 
-import com.melouk.mazen.Reader;
-import com.melouk.mazen.Writer;
+import com.melouk.mazen.io.Reader;
+import com.melouk.mazen.io.Writer;
 import org.apache.spark.api.java.JavaPairRDD;
 import org.apache.spark.api.java.JavaRDD;
 import org.slf4j.Logger;
